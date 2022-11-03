@@ -98,7 +98,7 @@ cd example
 zig init-lib
 ```
 
-Then change your `build.zig` to something like this:
+Then change your `build.zig` to something like this in `hello-napi` directory:
 
 ```zig
 ...
